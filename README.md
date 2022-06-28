@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I am Anish Patil</h1>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/83399506/176112118-f22c1ba0-ef0b-49ba-816c-667ff57af981.png" alt="c" width="80" height="80"/>
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="" alt="c" width="80" height="80"/>
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/83399506/176112939-0bedba41-d422-422a-bd35-c5c6ff0c23b0.png" alt="c" width="160" height="80"/>
 <h1 align="center">Check Out My Latest Project</h1>
 
 <h3 align="left">Skills:</h3>
