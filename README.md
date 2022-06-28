@@ -1,7 +1,5 @@
 <h1 align="center">Hi! I am Anish Patil</h1>
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/83399506/176112118-f22c1ba0-ef0b-49ba-816c-667ff57af981.png" alt="c" width="80" height="80"/>
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/83399506/176112939-0bedba41-d422-422a-bd35-c5c6ff0c23b0.png" alt="c" width="160" height="80"/>
-<h1 align="center">Check Out My Latest Project</h1>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScViGtTDj1XNABB5AwtJKSQY0RU7yx5XH1b6ISy-duH8HnhDg/viewform" target="_blank"> <img src="https://user-images.githubusercontent.com/83399506/176114261-93619158-ba2b-4f79-ab8c-6b62e81ecf75.png" >
 
 <h3 align="left">Skills:</h3>
 <p align="left">
