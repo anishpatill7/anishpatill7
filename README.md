@@ -21,3 +21,4 @@
 </a> <a href="https://kaggle.com/anishpatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anishpatil" height="30" width="40" /></a>
 </a> <a href="https://instagram.com/anishpatill7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anishpatill7" height="30" width="40" /></a>
 </p>
+
